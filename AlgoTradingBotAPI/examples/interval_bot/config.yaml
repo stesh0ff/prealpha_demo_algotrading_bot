@@ -1,0 +1,16 @@
+AccountId: "2051327878"
+APIToken: t.HWLOl0cA158wxZJLQtblW7lVTBp6Bn58VWMJxBlBY4Dp3_67Fo_vzMHBrKBg2syyULgxxhLw9WfDbF8skFDIeA
+EndPoint: invest-public-api.tinkoff.ru:443
+AppName: invest-api-go-sdk
+DisableResourceExhaustedRetry: false
+DisableAllRetry: false
+MaxRetries: 3
+
+
+# AccountId: ""
+# APIToken: t.oRQxrUhv-oqw-wTD60GfX6EUn0-7d3lcmZ9WZdzz52W5EEXWih_XMqUx9WlmokzopwAgkXSpp3Ew9MXJGj8zyQ
+# EndPoint: sandbox-invest-public-api.tinkoff.ru:443
+# AppName: invest-api-go-sdk
+# DisableResourceExhaustedRetry: false
+# DisableAllRetry: false
+# MaxRetries: 3
